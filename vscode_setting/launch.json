@@ -9,7 +9,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/bin/Debug/netcoreapp3.0/inheritance-netcode-tasks.dll",
+            "program": "${workspaceFolder}/bin/Debug/netcoreapp3.0/inheritance-netcore-vscode-tasks.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
             "console": "integratedTerminal",

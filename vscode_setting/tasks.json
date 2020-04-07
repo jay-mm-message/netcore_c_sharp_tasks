@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/inheritance-netcode-tasks.csproj",
+                "${workspaceFolder}/inheritance-netcore-vscode-tasks.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -27,7 +27,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/inheritance-netcode-tasks.csproj",
+                "${workspaceFolder}/inheritance-netcore-vscode-tasks.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -49,7 +49,7 @@
             "args": [
                 "watch",
                 "run",
-                "${workspaceFolder}/inheritance-netcode-tasks.csproj",
+                "${workspaceFolder}/inheritance-netcore-vscode-tasks.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
