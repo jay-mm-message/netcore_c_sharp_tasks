@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "non-system-Collectioins-Generic-netcore-vscode-tasks/1.0.0": {
+        "runtime": {
+          "non-system-Collectioins-Generic-netcore-vscode-tasks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "non-system-Collectioins-Generic-netcore-vscode-tasks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
