@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "base-inheritance-netcore-vscode-tasks/1.0.0": {
+        "runtime": {
+          "base-inheritance-netcore-vscode-tasks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "base-inheritance-netcore-vscode-tasks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
