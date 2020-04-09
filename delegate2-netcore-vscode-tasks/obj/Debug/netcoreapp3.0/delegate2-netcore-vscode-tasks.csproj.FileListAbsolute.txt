@@ -1,0 +1,11 @@
+/home/jay/2020/Github_Space_Capsule/c_sharp/delegate2-netcore-vscode-tasks/bin/Debug/netcoreapp3.0/delegate2-netcore-vscode-tasks
+/home/jay/2020/Github_Space_Capsule/c_sharp/delegate2-netcore-vscode-tasks/bin/Debug/netcoreapp3.0/delegate2-netcore-vscode-tasks.deps.json
+/home/jay/2020/Github_Space_Capsule/c_sharp/delegate2-netcore-vscode-tasks/bin/Debug/netcoreapp3.0/delegate2-netcore-vscode-tasks.runtimeconfig.json
+/home/jay/2020/Github_Space_Capsule/c_sharp/delegate2-netcore-vscode-tasks/bin/Debug/netcoreapp3.0/delegate2-netcore-vscode-tasks.runtimeconfig.dev.json
+/home/jay/2020/Github_Space_Capsule/c_sharp/delegate2-netcore-vscode-tasks/bin/Debug/netcoreapp3.0/delegate2-netcore-vscode-tasks.dll
+/home/jay/2020/Github_Space_Capsule/c_sharp/delegate2-netcore-vscode-tasks/bin/Debug/netcoreapp3.0/delegate2-netcore-vscode-tasks.pdb
+/home/jay/2020/Github_Space_Capsule/c_sharp/delegate2-netcore-vscode-tasks/obj/Debug/netcoreapp3.0/delegate2-netcore-vscode-tasks.csprojAssemblyReference.cache
+/home/jay/2020/Github_Space_Capsule/c_sharp/delegate2-netcore-vscode-tasks/obj/Debug/netcoreapp3.0/delegate2-netcore-vscode-tasks.AssemblyInfoInputs.cache
+/home/jay/2020/Github_Space_Capsule/c_sharp/delegate2-netcore-vscode-tasks/obj/Debug/netcoreapp3.0/delegate2-netcore-vscode-tasks.AssemblyInfo.cs
+/home/jay/2020/Github_Space_Capsule/c_sharp/delegate2-netcore-vscode-tasks/obj/Debug/netcoreapp3.0/delegate2-netcore-vscode-tasks.dll
+/home/jay/2020/Github_Space_Capsule/c_sharp/delegate2-netcore-vscode-tasks/obj/Debug/netcoreapp3.0/delegate2-netcore-vscode-tasks.pdb
